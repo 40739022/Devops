@@ -1,3 +1,1 @@
-Moshea Smith readme file for class. 
-
-Testing CI workflow working.
+![workflow](https://github.com/<UserName>/<RepositoryName>/actions/workflows/main.yml/badge.svg)

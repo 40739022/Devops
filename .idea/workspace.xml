@@ -35,6 +35,10 @@
     &quot;accountId&quot;: &quot;c13b21ca-1a0a-440b-b009-179f5afa81d8&quot;
   }
 }</component>
+  <component name="KubernetesApiPersistence"><![CDATA[{}]]></component>
+  <component name="KubernetesApiProvider"><![CDATA[{
+  "isMigrated": true
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>

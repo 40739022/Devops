@@ -1,1 +1,1 @@
-# Devops
+This is Moshea Smith's readme file created for class. 

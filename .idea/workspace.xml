@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4c755362-51aa-4a14-90f1-af9684fa5c4a" name="Changes" comment="Testing of readmefile" />
+    <list default="true" id="4c755362-51aa-4a14-90f1-af9684fa5c4a" name="Changes" comment="Testing of readme file">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -79,7 +81,7 @@
       <option name="presentableId" value="Default" />
       <updated>1727923284151</updated>
       <workItem from="1727923285356" duration="1994000" />
-      <workItem from="1727926311744" duration="1776000" />
+      <workItem from="1727926311744" duration="2266000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <option name="closed" value="true" />
@@ -121,7 +123,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727928000877</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Testing of readme file">
+      <option name="closed" value="true" />
+      <created>1727928124818</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1727928124818</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -131,7 +141,8 @@
     <MESSAGE value="Initial Commit" />
     <MESSAGE value="Docker Install and setup" />
     <MESSAGE value="Testing of readmefile" />
-    <option name="LAST_COMMIT_MESSAGE" value="Testing of readmefile" />
+    <MESSAGE value="Testing of readme file" />
+    <option name="LAST_COMMIT_MESSAGE" value="Testing of readme file" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
